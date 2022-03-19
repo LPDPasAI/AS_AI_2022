@@ -1,0 +1,36 @@
+Positive economics (as opposed to normative economics) is the branch of economics that concerns the description, quantification and explanation of economic phenomena.  It focuses on facts and cause-and-effect behavioral relationships and notes that economic theories must be consistent with existing observations.  Positive economics as science concerns analysis of economic behavior to determine what is. Positive economics was once known as value-free (German: wertfrei) economics. Examples of positive economic statements are "the unemployment rate in France is higher than that in the United States," or  “an increase in government spending would lower the unemployment rate.” Either of these is potentially falsifiable and may be contradicted by evidence. Positive economics as such avoids economic value judgments. For example, a positive economic theory might describe how money supply growth affects inflation, but it does not provide any instruction on what policy ought to be followed. This contrasts with normative economic statements, in which an opinion is given. For example, “Government spending should be increased” is a normative statement.
+Paul Samuelson's Foundations of Economic Analysis (1947) lays out the standard of operationally meaningful theorems through positive economics. Positive economics is commonly deemed necessary for the ranking of economic policies or outcomes as to acceptability. John Neville Keynes (1891) and Milton Friedman, in an influential 1953 essay, elaborated on the distinctions between positive and normative economics. Positive economics is sometimes defined as the economics of "what is", whereas normative economics discusses "what ought to be".
+The methodological basis for positive/normative distinctions is rooted in the fact-value distinction in philosophy. The principal proponents of such distinctions originate with David Hume and G. E. Moore. The logical basis of such a relation as a dichotomy has been disputed in philosophical literature. Such debates are reflected in discussion of positive science and specifically in economics, where critics such as Gunnar Myrdal (1954) and proponents of Feminist Economics such as Julie A. Nelson, Geoff Schneider and Jean Shackelford, and Diana Strassmann dispute the idea that economics can be completely neutral and agenda-free.
+
+
+  See also  
+Consumer theory
+Distribution (economics)
+Economic methodology
+Feminist economics
+Normative economics
+Philosophy of economics
+Production possibilities frontier
+Supply and demand
+
+
+  Notes  
+
+
+  References  
+Andrew Caplin and Andrew Schotte, ed. (2008). The Foundations of Positive and Normative Economics: A Handbook,  Oxford. Description and preview.
+Milton Friedman (1953). "The Methodology of Positive Economics," Essays in Positive Economics.
+Daniel M. Hausman and Michael S. McPherson (1996). Economic Analysis and Moral Philosophy, "Appendix: How could ethics matter to economics?", pp. 211–20:A.2:  Objection 2: Positive economics is value-free
+A.3: How positive economics involves moralityJohn Neville Keynes (1891). The Scope and Method of Political Economy
+Richard G. Lipsey (2008). "positive economics." The New Palgrave Dictionary of Economics. Second Edition. Abstract.
+Gunnar Myrdal (1954 [1929]). The Political Element in the Development of Economic Theory, trans. Paul Streeten (Cambridge, MA: Harvard University Press).
+Lionel Robbins (1932). An Essay on the Nature and Significance of Economic Science.
+Paul A. Samuelson (1947, Enlarged ed. 1983). Foundations of Economic Analysis
+Stanley Wong (1987). “positive economics," The New Palgrave: A Dictionary of Economics, v. 3, pp. 920–21.
+McConnell; Brue; Flynn. Macroeconomics (19th ed.).
+Holcombe, Randall G. (1989). Economic Models and Methodology. New York: Greenwood Press. pp. 57–70. ISBN 978-0-313-26679-9.
+
+
+  External links  
+Essays in Positive Economics by Milton Friedman
+Milton Friedman ([1953] 1966). "The Methodology of Positive Economics," excerpts from Friedman's essay

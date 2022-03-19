@@ -1,0 +1,108 @@
+Managerial economics is a branch of economics involving the application of economic methods in the managerial decision-making process.And, Managerial Economics is the integration of economic theory with business practice for the purpose of facilitating Decision making and forward planning by the Management. Managerial economics aims to provide a framework for decision making which are directed to maximise the profits and outcomes of a company. 
+
+Managerial economics focuses on increasing the efficiency of organizations by employing all possible business resources to increase output while decreasing unproductive activities.
+The two main purposes of managerial economics are:
+
+To optimize decision making when the firm is faced with problems or obstacles, with the consideration of macro and microeconomic theories and principles.
+To analyse the possible effects and implications of both short and long-term planning decisions on the revenue and profitability of the Business.To correctly optimise economic decisions, both managerial economics objectives may involve the use of operations research, mathematical programming, strategic decision making, game theory and other computational methods. The methods listed above are typically used for making quantitate decisions by data analysis techniques.
+The theory of Managerial Economics includes a focus on; incentives, business organization, biases, advertising, innovation, uncertainty, pricing, analytics, and competition. In other words, managerial economics is a combination of economic and managerial theory.  It helps the manager in decision-making and acts as a link between practice and theory.
+Furthermore, managerial economics provides the device and techniques for managers to make the best possible decisions for any scenario.
+Some examples of the types of questions that the tools provided by  managerial economics can answer are;
+
+The price and quantity of a good a business should produce.
+Whether to invest in current staff by training or go to market for staff.
+When to retire fleet equipment.Managerial economics is sometimes referred to as business economics and is a branch of economics that applies microeconomic analysis to decision methods of businesses or other management units to aid managers to make a wide array of multifaceted decisions.  The calculation and quantitative analysis draws heavily from techniques such as regression analysis, correlation and calculus.
+
+
+  Nature of Managerial Economics  
+Managerial economics to a certain degree is prescriptive in nature as it suggests a course of action to a managerial problem.
+Managerial economics aims to provide the tools and techniques to make informed decisions to maximize the profits and minimize the losses of a firm. Managerial economics has use in many different business applications, although the most common areas of its focus are in relation to the Risk, Pricing, Production and Capital decisions a manager makes.The decision making steps, which are guided by the tools of managerial economics, include;
+
+1. Define The problem
+The first step in making a business decision is to understand the problem in its entirety. Without correct analysis on the problem at hand, developing a solution is an almost impossible task.
+Not correctly defining the problem can sometimes be the root of the problem that is trying to be solved.2. Determine the Objective
+The second step is evaluating the objective of the decision, or what the decision is trying to achieve. 
+This step is determining a possible solution to the problem defined in step 1. This step may provide multiple possible solutions to the problem previously defined.
+3. Discover the Alternatives
+After in depth analysis into what is required to solve the problem faced by a business, options for potential solutions can be collated.
+In most cases, more than one possible solution to the problem exists. For example, a business striving to gain more attraction on social media could improve the quality of their content, collaborate with other creators or a combination of the two.4. Forecast the Consequences
+This step involves assessing the consequences of the problem solutions detailed in step 3. Possible consequences of a business decisions could include; productivity, health, environmental impacts and risk.
+Here, managerial economics is used to determine the risks and potential financial consequences of an action.
+5. Make a Decision
+After the consequences and potential solutions to the problem at hand have been analyzed, a decision can be made. At this point, the potential decisions should be measurable values which have been quantified by managerial economics to maximise profits, minimise risk and adverse outcomes of the firm. The make a decision step includes a sensitivity analysis of the solution. A sensitivity analysis of the selected solution provides detail of how the output of the solution changes with changes to the inputs. The sensitivity analysis allows the strengths and weaknesses of the designed solution to be analyzed.
+
+
+  Managerial Economics Forces  
+When making managerial decisions, managers use managerial economics to analyze the micro and macroeconomic environments. Microeconomics considers the actions of individual firms.
+In comparison, Macroeconomics is considers the actions and behaviour of the economy as a whole.
+Managerial economics studies how to analyze and compare alternative solutions to find the one most likely to achieve business goals. In this decision-making process, the role of managerial economics is to provide relevant analytical tools and analytical methods.
+Forecasting and analysis of macroeconomic trends are essential in managerial economics. The macroeconomy focuses broadly on the principles of output, unemployment, political and social issues, inflation and other economic conditions.These values play a large factor in managerial economics as they have the ability to provide an overview of global market conditions, which is imperative for managers to understand.The political structure of a country, whether authoritarian or democratic; Political stability; And attitudes towards the private sector affect the growth and development of organizations.
+An example of managerial economics using macroeconomic principles is a manager choosing to hire new staff rather than training old ones in a time where the rate of unemployment is high, as the possible talent pool would be very large.
+The microeconomic consideration by managerial economics includes; consumer demand and supply, opportunity cost, revenue and cost.
+Microeconomics also gives indication on the most effective allocation of resources the business has available to it.
+These microeconomic theories and considerations are used via managerial economics to make decisions regarding the business. By understanding the principles of microeconomics, managers can be well informed to make accurate decisions regarding the form.
+An example of managerial economics using microeconomic principles is the decision of a manager to increase the price of the goods being sold. A manager should evaluate the price elasticity of the product to equate the respective demand of the product after the price change.
+
+
+  The Main Theories of Managerial Economics  
+Microeconomics is the dominant focus behind managerial economics, some of the key aspects include;
+1. Supply and Demand
+
+The law of supply and demand describes the relationship between producers and consumers of a product. The law suggests that price set by the producer and quantity demanded by a consumer are inversely proportional, meaning an increase in the price set is met by a reduction in demand by the consumer.
+The law further describes that sellers will provide a large quantity of the good if it sells at a high price.2. Production theory
+Production theory describes the quantity of a good a business chooses to produce due to multiple factors. These factors include; raw material inputs, labor, machinery costs, capital, etc. The production theory states that a business will strive to employ the cheapest combination of inputs to produce the quantity demanded.
+The production function can be described by the function below;
+Formula: Q   F[L,K]
+Where Q denotes production from a firm, L is the variable inputs and K is the fixed inputs.3. Opportunity Cost
+The opportunity cost is a value that represents the cost of opportunities it misses out on by conducting another activity. The opportunity cost details the costs and benefits of each action the business is considering pursuing, the decision maker is then in the position to choose the action with the highest payoff.4.Theory of Exchange or Price Theory
+The principle uses the conjecture of supply and demand to set an accurate price for a good. The aim of the price theory is to allocate a price for a good such that the supply of a good is met with equal demand for the product. If a manager sets a price to high for the good, the consumer may think it is not worth the cost and decide not to purchase the good, hence creating an excess in supply. The opposite occurs when the price is set too low, this causes demand for a good to be larger than the supply.5.Theory of Capital and Investment Decisions
+Capital is the most critical factor in an enterprise, this theory prevails in the rational allocation of funds and decisions of organizations to invest in profitable projects or enterprises in order to improve the efficiency of organizations.
+The rational allocation of funds may include acquiring business, investing in equipment, whether investment will improve the business at all.The microeconomic principles are useful principles for managers to make decisions, Managerial economics entails the use of all of these analysis tools to make informed business decisions.
+
+
+  Analytical Methods used in Managerial Economics  
+1. Price Elasticity Analysis
+The price elasticity is an extremely useful tool in managerial economics as it provides managers with the predicted change in demand associated with an increase in the price charged for a good. The price elasticity principle also outlines the changes in demand for goods with changes in the income of a populous.Formula; Elasticity   (△Q/△P)*(Q0/P0)
+Where △Q is the change in demand for the respective change in price △P, with Q0 and P0 representing the quantity and price of good before a change was made.
+The price elasticity is extremely important for managerial economics as it aids in the optimization of the marginal revenue of firms.2. Marginal analysis
+In economics, margin is the change in revenue and cost by producing one extra unit of output. Both the marginal cost and marginal revenue are extremely important in marginal economics as profit of a firm is maximized when the marginal cost is equal to the marginal revenue.3. Mathematical model analysis
+In the development of economics and management, more and more econometric analysis methods are applied. The use of differential calculus is a powerful tool in managerial economics.By taking the derivative of a function the maximum and minimum values of the function are very easily determined by setting the derivative equal to zero, an example of this is finding a quantity of production that maximizes the profit of the firm. This concept is important for managers to understand in order to minimize costs or maximize profits.
+
+
+  When Managerial Economics is Applied  
+Almost any business decision can be analyzed with managerial economics techniques, but it is most commonly applied to:
+
+Risk analysis – various models are used to quantify risk and asymmetric information and to employ them in decision rules to manage risk.
+Production analysis – microeconomic techniques are used to analyze production efficiency, optimum factor allocation, costs, economies of scale and to estimate the firm's cost function.
+Pricing analysis – microeconomic techniques are used to analyze various pricing decisions including transfer pricing, joint product pricing, price discrimination, price elasticity estimations, and choosing the optimum pricing method.
+Capital budgeting – investment theory is used to examine a firm's capital purchasing decisions.At its core managerial economics is a decision-making process, by taking two or more options and optimizing a business decision while considering fixed resources to the function.
+
+
+  Incentives  
+Monetary incentives are an important aspect of managerial economics as they can be used to achieve particular business outcomes. Monetary incentives allow for a particular behavior to appear more attractive to employees and contractors. An example of this is when an agent receives a bonus for reaching a specific outcome, usually determined by an objective measurement tool, such as a key performance indicator. Providing this incentive allows the business to reach particular goals that would not otherwise be achieved. Providing monetary incentives can also bring an opposite effect, dissuading the agent from performing the incentivized behavior. An example of this is when an agent is provided with a base salary independent of achieving a particular goal set by management. In this scenario there is no incentive for the agent to act in accordance the goal as they will receive their salary regardless.Employees do not just perform in accordance with their own pay but also the pay of their peers. Pay inequality can act as a disincentive, reducing employee output and attendance by a significant amount. It is irrelevant whether they have a higher or lower salary than that of their co-workers. Pay disparity also lowers the ability of employees to work in their own interests and cooperate with other workers effectively. Pay inequality may have no discernible effect if an employee is aware that a peer with a higher salary produces a greater output than them.Tournament theory is used to describe why different pay levels exist between different roles in the business hierarchy. The idea of tournament theory is that agents who put in effort to achieve promotions are rewarded with a higher, non-incremental, pay rate. The reward of a higher pay rate incentivizes behavior that leads to promotions. This behavior is often lucrative and therefore ideal for the business. Tournaments can be very powerful at incentivizing performance. Empirical research in economics and managements have shown that tournament-like incentive structure increases the individual performance or workers and managers in the workplace.
+
+
+  See also  
+
+
+  Journals  
+Computational Economics. Aims and scope.
+Journal of Economics & Management Strategy.  Aims and scope.
+Managerial and Decision Economics
+
+
+  Notes  
+
+
+  References  
+Alan Hughes (1987). "managerial capitalism," The New Palgrave: A Dictionary of Economics, v. 3, pp. 293–96.
+Edward Lazear (2008). "personnel economics," The New Palgrave Dictionary of Economics. 2nd Edition. Abstract.
+Keith Weigelt (2006). Managerial Economics
+Elmer G. Wiens  The Public Firm with Managerial Incentives
+Khan Ahsan (2014). "Managerial Economics and Economic Analysis", 3rd edition, Pakistan.
+arya sri."managerial economics " :MEFA . (2015).
+
+
+  External links  
+https://web.archive.org/web/20111112021324/http://www.edushareonline.in/Management/eco%20new.pdf
+http://www.swlearning.com/economics/hirschey/managerial_econ/chap01.pdf
