@@ -12,3 +12,9 @@ https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
 https://realpython.com/python-speech-recognition/
 
+
+
+
+
+
+leandro.paolo.de.persiis@gmail.com
