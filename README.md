@@ -16,5 +16,6 @@ https://realpython.com/python-speech-recognition/
 
 
 
-
+---
+email:
 leandro.paolo.de.persiis@gmail.com
