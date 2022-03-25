@@ -10,6 +10,8 @@ https://arxiv.org/pdf/1508.02096.pdf
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
+https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/fine_tune_bert.ipynb#scrollTo=yic2y7_o-BCC
+
 https://realpython.com/python-speech-recognition/
 
 
